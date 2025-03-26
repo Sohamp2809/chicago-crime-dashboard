@@ -62,7 +62,7 @@ This project presents a comprehensive Tableau dashboard built to analyze and vis
 [Crime Rate   Domestic Crime Percentage Analysis](https://github.com/user-attachments/assets/6b7835d6-e093-4f71-aa21-54a9725bd620)
 
 
-> _Screenshots should be placed in a `/screenshots` directory within the repo._
+
 
 ---
 
