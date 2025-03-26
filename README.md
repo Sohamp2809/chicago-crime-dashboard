@@ -42,25 +42,27 @@ This project presents a comprehensive Tableau dashboard built to analyze and vis
 ---
 
 ## 📸 Dashboard Preview
-[Overall Crime Dashboard Summary](https://github.com/user-attachments/assets/c0649741-4e82-4737-b5e8-a28c5d3d2304)
+![image](https://github.com/user-attachments/assets/e130400d-a808-457e-9366-092a2e1c2d9d)
 
 > These screenshots highlight my ability to work with geospatial data, apply pre-attentive design principles, and build user-friendly, interactive dashboards using Tableau.
 
 ### 🗺️ Crime Map by District (2022)
-[Location of Crimes on Map (District-wise)](https://github.com/user-attachments/assets/4f26a718-6e12-4dd8-92d0-d5582ed73825)
+![image](https://github.com/user-attachments/assets/fb7f357c-6712-438a-b94f-ec75ebdac776)
+
 
 
 ### 📅 Crime Distribution by Weekdays
-[Crime Distribution by Weekdays](https://github.com/user-attachments/assets/7e9a97e4-d15b-42d8-a022-cce532c5e729)
+![image](https://github.com/user-attachments/assets/ff69ad7e-bef2-4697-911e-ed72c414aa75)
+
 
 
 ### 🧯 Battery Crimes – Top Wards & Block-wise Distribution
-[Battery Crimes – Top Wards   Block-wise Distribution](https://github.com/user-attachments/assets/ef5fb297-c23b-4466-b6e2-f7c2db1d6e93)
+![image](https://github.com/user-attachments/assets/de6de55c-bda4-4cd3-8bbd-2c897cb79d45)
+
 
 
 ### ⏰ Crime Rate & Domestic Crime Percentage Analysis
-[Crime Rate   Domestic Crime Percentage Analysis](https://github.com/user-attachments/assets/6b7835d6-e093-4f71-aa21-54a9725bd620)
-
+![image](https://github.com/user-attachments/assets/91998def-fb07-4756-920a-5efa44ef6b14)
 
 
 
