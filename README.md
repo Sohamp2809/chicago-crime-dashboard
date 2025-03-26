@@ -42,20 +42,25 @@ This project presents a comprehensive Tableau dashboard built to analyze and vis
 ---
 
 ## 📸 Dashboard Preview
+![Dashboard]![Overall Crime Dashboard Summary](https://github.com/user-attachments/assets/c0649741-4e82-4737-b5e8-a28c5d3d2304)
 
 > These screenshots highlight my ability to work with geospatial data, apply pre-attentive design principles, and build user-friendly, interactive dashboards using Tableau.
 
 ### 🗺️ Crime Map by District (2022)
-![Map](screenshots/map_by_district.png)
+![Map]![Location of Crimes on Map (District-wise)](https://github.com/user-attachments/assets/4f26a718-6e12-4dd8-92d0-d5582ed73825)
 
-### 📅 Monthly Crime Trends
-![Monthly](screenshots/monthly_trends.png)
 
-### ⏰ Crime by Time of Day
-![Donut](screenshots/time_of_day_donut.png)
+### 📅 Crime Distribution by Weekdays
+![Weekly]![Crime Distribution by Weekdays](https://github.com/user-attachments/assets/7e9a97e4-d15b-42d8-a022-cce532c5e729)
 
-### 🧯 Battery Crime Distribution by Ward
-![Bubble](screenshots/battery_bubble_chart.png)
+
+### 🧯 Battery Crimes – Top Wards & Block-wise Distribution
+![Story]![Battery Crimes – Top Wards   Block-wise Distribution](https://github.com/user-attachments/assets/ef5fb297-c23b-4466-b6e2-f7c2db1d6e93)
+
+
+### ⏰ Crime Rate & Domestic Crime Percentage Analysis
+![Story]![Crime Rate   Domestic Crime Percentage Analysis](https://github.com/user-attachments/assets/6b7835d6-e093-4f71-aa21-54a9725bd620)
+
 
 > _Screenshots should be placed in a `/screenshots` directory within the repo._
 
